@@ -53,9 +53,10 @@ It simply means that the face detection system can detect the presence of a huma
 ---
 
 Facial landmarks are used to align facial images to a mean face shape, so that after alignment the location of facial landmarks in all images is approximately the same. However it makes sense that facial recognition algorithms trained with aligned images would perform much better, and this intuition has been confirmed by many research papers.
-
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/landmarks.jpg" />
-
+<p align="center">
+<img alt="Visual Studio Code" height="650px" width="650px" src="https://github.com/harshithvh/Instagram-filters/blob/main/landmarks.jpg" >
+</p><br>
+  
 # Feature Extraction
 
 ---
