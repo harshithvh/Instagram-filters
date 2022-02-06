@@ -13,6 +13,8 @@ You’ve probably seen face filters invading Instagram over the past few years. 
 
 Instagram face filters are the most common across social media, although they take different forms. Instagram offers beautification filters along with its augmented-reality facial filters, like those that add a cat’s ears and tongue to a person’s face. Snapchat also offers a gallery of filters where users can swipe through beauty effects on their selfie camera. Beauty filters in Tik-Tok’ and snapchat’s app are part of an app setting called “Enhance,” where users can set a standard beautification on any subject.
 
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img1.png" />
+
 # Facial Filters
 
 ---
@@ -31,6 +33,8 @@ Face detection algorithms frequently start by looking for human eyes, which is a
 things to recognize since they form a valley region. After detecting eyes, the algorithm may try to detect other facial features such as
 brows, mouth, nose, nostrils, and iris. Once the algorithm has determined that a facial region has been recognised, it can do additional tests to confirm that it has indeed detected a face.
 
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img2.png" />
+
 # Face Recognition
 
 ---
@@ -39,6 +43,8 @@ Facial recognition is a method of recognizing or verifying a person's identifica
 
 Face recognition software use computer algorithms to identify specific, distinguishing features on a person's face. These features, such as eye distance or chin shape, are then transformed into a mathematical representation and compared to data from other faces in a face recognition database.
 
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img3.png" />
+
 It simply means that the face detection system can detect the presence of a human face in a video clip but cannot identify the individual. Face detection is a part of facial recognition systems; the first step in facial recognition is identifying the existence of a human face.
 
 # Facial Landmarks Detection
@@ -46,6 +52,8 @@ It simply means that the face detection system can detect the presence of a huma
 ---
 
 Facial landmarks are used to align facial images to a mean face shape, so that after alignment the location of facial landmarks in all images is approximately the same. However it makes sense that facial recognition algorithms trained with aligned images would perform much better, and this intuition has been confirmed by many research papers.
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/landmarks.jpg" />
 
 # Feature Extraction
 
@@ -67,6 +75,8 @@ algorithm. Traditional machine learning models require all inputs to be in the f
 
 Traditional Machine Learning methods are very fast, accurate but can't work in every lighting condition and in case of face detection it is accurate only when person is facing the camera.
 
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img4png" />
+
 # Deep Learning
 
 ---
@@ -79,6 +89,8 @@ Unstructured data, such as photographs and videos, can be fed into deep learning
 Suppose if you want to teach a neural network to recognize a cat, for instance, you don’t tell it to look for whiskers, ears, fur, and eyes.
 
 You simply show it thousands and thousands of photos of cats, and eventually it works things out.
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img5.png" />
 
 Deep Learning methods are slow, very accurate, can work in every lighting condition and in case of face detection Can work with any face rotation.
 
