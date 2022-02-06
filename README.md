@@ -33,7 +33,7 @@ Face detection algorithms frequently start by looking for human eyes, which is a
 things to recognize since they form a valley region. After detecting eyes, the algorithm may try to detect other facial features such as
 brows, mouth, nose, nostrils, and iris. Once the algorithm has determined that a facial region has been recognised, it can do additional tests to confirm that it has indeed detected a face.
 
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img2.png" />
+<img align="left" alt="Visual Studio Code" height="600px" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img2.png" />
 
 # Face Recognition
 
@@ -75,7 +75,7 @@ algorithm. Traditional machine learning models require all inputs to be in the f
 
 Traditional Machine Learning methods are very fast, accurate but can't work in every lighting condition and in case of face detection it is accurate only when person is facing the camera.
 
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img4png" />
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img4.png" />
 
 # Deep Learning
 
