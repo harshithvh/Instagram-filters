@@ -33,8 +33,8 @@ Face detection algorithms frequently start by looking for human eyes, which is a
 things to recognize since they form a valley region. After detecting eyes, the algorithm may try to detect other facial features such as
 brows, mouth, nose, nostrils, and iris. Once the algorithm has determined that a facial region has been recognised, it can do additional tests to confirm that it has indeed detected a face.
 
-<img align="left" alt="Visual Studio Code" height="650px" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img2.png" />
-
+<img align="left" alt="Visual Studio Code" height="500px" width="500px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img2.png" />
+<hr>
 # Face Recognition
 
 ---
@@ -63,6 +63,7 @@ In the real world, all the data we collect are in large amounts. To understand t
 
 Feature extraction in image processing is a part of the dimensionality reduction process, in which an initial set of the raw data is divided and reduced to more manageable groups. So when you want to process that data, it will be easier. The most promising characteristic of these large data sets is that they have a large number of variables. These variables require a lot of computing resources to process them. So Feature extraction helps to get the best feature from those big data sets by selecting and combining variables into features, thus, effectively reducing the amount of data. 
 
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Instagram-filters/blob/main/images/img6.png" />
 
 # Approaches to perform Face Detection
 # Traditional Machine Learning
